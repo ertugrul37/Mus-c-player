@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Müzik Çalar</string>
+    <string name="empty_str">empty_str</string>
+    <string name="deep_sea_girl">deep_sea_girl</string>
+    <string name="luo">luo</string>
+    <string name="clear">clear</string>
+    <string name="collect_all">collect_all</string>
+    <string name="mode_single_loop">mode_single_loop</string>
+</resources>
